@@ -7,6 +7,8 @@
 
 @import "compass";
 
+@import "compass/css3";
+
 $my_color: #BADA55;
 nav {
   @include float-right;   /* Cross-browser floating helper */

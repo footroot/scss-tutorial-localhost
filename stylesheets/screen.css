@@ -67,12 +67,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   display: block;
 }
 
-/* line 11, ../sass/screen.scss */
+/* line 13, ../sass/screen.scss */
 nav {
   float: right;
   /* Cross-browser floating helper */
 }
-/* line 13, ../sass/screen.scss */
+/* line 15, ../sass/screen.scss */
 nav a {
   text-decoration: none;
   /* Good ol' fashioned CSS */
@@ -91,13 +91,13 @@ nav a {
   -webkit-transition: color 0.5s ease-in;
   transition: color 0.5s ease-in;
 }
-/* line 22, ../sass/screen.scss */
+/* line 24, ../sass/screen.scss */
 nav a:hover {
   /* Compass color mixin: shade() */
   color: #95ae44;
 }
 
-/* line 29, ../sass/screen.scss */
+/* line 31, ../sass/screen.scss */
 div {
   -moz-column-count: 3;
   -webkit-column-count: 3;
