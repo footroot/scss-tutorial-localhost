@@ -96,3 +96,13 @@ nav a:hover {
   /* Compass color mixin: shade() */
   color: #95ae44;
 }
+
+/* line 29, ../sass/screen.scss */
+div {
+  -moz-column-count: 3;
+  -webkit-column-count: 3;
+  column-count: 3;
+  -moz-column-gap: 20px;
+  -webkit-column-gap: 20px;
+  column-gap: 20px;
+}
