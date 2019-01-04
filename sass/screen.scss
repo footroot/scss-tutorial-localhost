@@ -26,4 +26,9 @@ nav {
   }
 }
 
+div {
+    @include column-count(3);
+    @include column-gap(20px);
+}
+
 
